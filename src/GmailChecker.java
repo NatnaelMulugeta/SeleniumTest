@@ -8,6 +8,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.io.PrintWriter;
 import java.util.List;
 
+//done by: Natnael Mulugeta  -- ATR/4355/09
+
 public class GmailChecker {
 
     public static void main(String[] args) throws Exception {
